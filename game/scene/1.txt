@@ -1,0 +1,98 @@
+bgm:joker.MP3;
+changeBg:street1.png -next;
+changeFigure:不老实.png -left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+不老实:天气真好啊，Kimochi;
+不老实:我什么时候才能遇到我的真爱啊！;
+不老实:莫名其妙有些伤感,就那种凄凉又绝望的感觉。;
+不老实:要我说币圈这么多山寨币，为什么就没出几个币娘：（;
+不老实:就那帮二次元有了自己的纸片人老婆，哪管区块链是不是诈骗啊！;
+changeFigure: -left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255};
+:不老实突然回想起自己大一表白的女生被别人抢了，心中一阵刺痛。;
+changeFigure:321321321.png -id=0;
+:不老实下雨冒雨帮她买药，冬天为她买早餐，天热了为她买热饮，而且都是双份的，他一直以为她是食欲大吃的多。;
+:其实她是借用他对她的好，把另一份给她喜欢的体育生黑皮男神，最后觉得不老实太穷没啥利用的价值，把微信删除消失了。;
+:不老实被舍友嘲笑是小丑和龟男后接受不了打击变成了二次元死宅！！！;
+changeFigure: -id=0 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255};
+changeFigure:不老实.png -left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+不老实:我不理解，为什么我都是黄毛了，我还是没有女朋友。;
+changeFigure:logan.png -right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+:不老实身边突然传来语调低沉、缓和富有磁性的声音。;
+logan:怎么了，同学看你闷闷不乐的，是发生什么事了吗？;
+不老实:【啊，logan老师怎么在这里，我可不能说是因为找不到女朋友才伤心！】;
+bgm:åæä¸è±gfdg.MP3;
+不老实:没什么大问题，logan老师Ծ‸Ծ;
+不老实:我只是不太明白，Sui Move和 Aptos Move 的区别大吗？我之前在 Sui 用 Move 开发过应用(ˊっω•̤ˋ);
+logan:区别非常大，主要体现在以下三个方面：;
+logan:资源处理方式不同： Sui 需要你把每个资源的ID作为参数传给合约；Aptos 允许合约直接在链上查找和读取账户下的资源。;
+logan:存储模型不同： Aptos 的资源分散存储在各个账户下，合约代码去读取；Sui 也是对象模型，但它在资产转移等方面有自己的调整，更像是一种UTXO的变体。;
+logan:设计理念和演进路径不同： Aptos Move 更贴近 Move 语言的原始设计（全局存储模型）；Sui 为了创新，采用了不同的对象模型和机制。;
+logan:所以，虽然都叫 Move，但在具体实现、语法（尤其是v2后）和虚拟机层面，两者差异是非常明显的。;
+不老实:谢谢logan老师指导，阿里嘎多。;
+logan:同学可以告诉我你的名字吗？;
+不老实:不霁何虹;
+logan:好名字啊，挺好听的。“复道行空，不霁何虹？”;
+logan:何虹同学吃饭了吗？要不要一起去食堂。;
+不老实:可以啊，我们走吧，logan老师༼ つ ◕‿◕ ༽つ;
+changeBg:canteen.png -next;
+:不老实和logan老师在食堂一起就餐中......;
+logan:何虹同学，我最近想建立aptos区块链协会，请问你有什么想法吗？;
+logan:一个高校学术社团组织，结合技术研究和产学研合作，提供技术交流、竞赛与行业对接的平台。;
+不老实:我有听说过其它地方的链协，不过听说他们现在很多都不太活跃了。;
+不老实:有些链协已经商业化了，还有一些学校的链协则是校领导不让举办。;
+不老实:学校方面不知道是来诈骗还是技术交流的，普遍一刀切。;
+logan:哈哈哈，我们Aptos大学的学生不用太操心的。
+logan:我来当指导老师，学校方面的事我来谈，你们安心学习就行了。;
+logan:我已经申请了协会的活动室了，你要来看看吗？;
+不老实:ok啊̋(๑˃́ꇴ˂̀๑);
+changeBg:street.png.png -next;
+changeBg:association.png -next;
+不老实:这边就是协会活动室了吗？
+不老实:不过为什么还是没有空调( १д१)<;
+logan:何虹同学，不该问的不要问了！;
+logan:【这摊浑水你就不要踏了】
+logan:我们这边主要是让其它专业的同学也能了解到web3行业，尽协会可能帮助同学解决就业问题。;
+不老实:不过web3的岗位要求都有哪些啊？;
+不老实:我大一的时候都在玩O神，上课在打O神，下课也在打O神，梦里也在打O神，实在没多太了解web3岗位。;
+logan:何虹同学，你这家伙......;
+changeFigure: -left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255};
+changeFigure:-right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+:logan老师沉默了一段时间......;
+changeBg:front-end.png -next;
+logan:这是前端工程师的要求......;
+changeBg:end.png -next;
+logan:这是后端工程师的要求......;
+changeBg:move.png -next;
+logan:这是Move合约工程师的要求......;
+changeBg:association.png -next;
+changeFigure:logan.png -right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+logan:感兴趣请发送信息至：mp@alcove.pro (邮箱）;
+logan:简历（请突出区块链或技术项目经历），GitHub / 作品链接（可选），简要说明：你希望参与什么方向、对 Aptos 的看法或兴趣点。;
+changeFigure:不老实.png -left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+不老实:感觉都好难啊logan老师ヾ(⌒(_´-ㅅ-`)_;
+logan:何虹同学可以先通过Aptos黑客松来练练手，不着急的，项目足够出色就可以拿到Bounty和一些工作机会。;
+logan:你要是有空的话，也可以来Movemake申请大使。;
+不老实:Movemaker是什么？;
+logan:Movemaker 是由 Aptos 基金会授权，经 Ankaa 和 BlockBooster 联合发起的官方社区组织，专注于推动 Aptos 华语区生态的建设与发展。;
+logan:作为 Aptos 在华语区的官方代表，Movemaker 获得了来自 Aptos 基金会百万美元级的资金和资源支持。
+logan:将致力于通过连接开发者、用户、资本及众多生态合作伙伴，打造一个多元、开放、繁荣的 Aptos 生态系统。
+logan:从 DeFi、AI 到支付、稳定币和 RWA，Movemaker 致力于支持具创新性的项目落地应用，并推动 Aptos 技术与真实世界的连接。
+logan:作为 Aptos 在亚洲的重要桥梁，Movemaker 正在用本地化叙事与全球化视野，激发更多开发力量加入 Aptos 生态。
+logan:更多关于 Movemaker 的信息, 可以访问 movemaker.xyz 或者关注 推特：https://x.com/MovemakerCN
+changeFigure: -left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255};
+changeFigure:-right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+changeBg:Movemake.webp -next;
+logan:成为大使：每月发布 2 条与 Aptos 生态相关的推文，在 Movemaker TG 社群内积极聊天，与 Movemaker 的推文保持互动。;
+logan:每月会有50~150 USDT 等值的 APT 空投↖(▔^▔)↗;
+changeBg:association.png -next;
+changeFigure:不老实.png -left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+changeFigure:logan.png -right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+不老实:我听说一些大使都是币圈的名额多，技术向的反而少。;
+不老实:有些大使都没钱的，点击就送，一个人往往可以担任多个大使。
+logan:何虹同学说的现象是有存在，不过我还是建议多多尝试。;
+changeFigure: -left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255};
+changeFigure:-right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+changeBg:night.png -next;
+:不老实和logan两人就这样在单独的房间交流zhishi到了半夜♡+♡=♡²;
+changeBg:sky.png -next;
+:时间过去了几天......;
+changeScene:2.txt

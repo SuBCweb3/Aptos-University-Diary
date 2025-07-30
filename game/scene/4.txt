@@ -1,0 +1,65 @@
+bgm:999.MP3;
+changeBg:sky.png;
+:时间过去了好久，不老实为了实现和logan老师的约定。
+:努力建设Apt链协，担任链协会长，积极开展于alcove的合作，逐渐成为了后人的老师。
+changeBg:association.png;
+changeFigure:不老实.png -left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+不老师:除了黑客松可以帮助就业，在 Web3 领域找到工作的路径除了加入相关群组、参加线下 meet up、与项目方交流和为开源项目做贡献外。
+不老师:在学校内举办活动、与教授交流也可以帮助找到工作。
+不老师:现状 Web3 更多时候的就业更多是朋友介绍，或者说是你跟有的老板聊过天，当他现在想做一个什么事情就会想到你。
+不老师:还有就是多参加黑客松和聚会，参加开源贡献也能认识到潜在的就业人脉，这些可能也是比传统的找工作模式更加高效率的。
+:突然一天，logan老师离开了校园，变成了aptos labs的开发者。
+changeFigure: -left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+changeFigure:logan.png -right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+logan（Aptos Labs Devrel Eng）: 何虹这家伙已经成长了，终于能放心交给他了。;
+changeFigure: -right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+changeBg:night.png;
+:前几天夜里......
+changeFigure:pirate.png -right -id=5 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+KOL学长: 你敢举报我，你知道我是谁吗？;
+KOL学长: 我告诉你，我是校长的儿子。;
+KOL学长: 为了一个傻子，你冒着被开除的风险，这么做有意义吗？;
+changeFigure:logan.png -left -id=2 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+logan: 我告诉你，我的学生我护着。
+logan（Aptos Labs Devrel Eng）: 他们利益受到侵害，当老师的就应该站出来指责不良行为。;
+KOL学长: 你知道什么叫做和光同尘吗？;
+KOL学长: 我实话告诉你吧，你把我闹到公安那边，我也就只会被传唤一下。;
+KOL学长: 学校这边舆论再大，我也只会随便来个不痛不痒的处分，而你的饭碗倒是没有了。;
+logan（Aptos Labs Devrel Eng）: 现在各大学校的风气是应该好好变一下，再不变，老百姓要骂娘了！。
+changeFigure:-right -id=5 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+logan（Aptos Labs Devrel Eng）: 我从学校宿管大爷因没空调被热死的时候就一直在收集证据，为的就是学校一定要是学校。
+logan（Aptos Labs Devrel Eng）: 不霁何虹，这就是老师给你上的最后一课了。
+logan（Aptos Labs Devrel Eng）: 或许这就是区块链要实现的意义吧，去中心化、可追溯性、不可篡改......
+changeFigure:-left -id=2 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+changeBg:sky.png
+:通报：Aptos校长***贪污受贿资产1531.28忆APT......
+:通报：Aptos学生KOL开除，现已移交到公安......
+:通报：Aptos教授logan因师德问题开除......
+changeBg:street1.png;
+changeFigure:logan.png -left -id=2 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+logan（Aptos Labs Devrel Eng）: 这就要走了吗？还真是怀恋在这教书的时光啊！;
+:突然传来一阵急促的奔跑声......
+changeFigure:不老实.png -right -id=1 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+不老师:logan老师，这里面一定是有什么误会，我们学生都知道你不可能有师德的问题!
+logan（Aptos Labs Devrel Eng）: 这事不是你一个学生能处理，这摊浑水你就不要踏了。
+不老师:但是......
+logan（Aptos Labs Devrel Eng）: 你出了社会后，一定要坚持自己的内心。
+logan（Aptos Labs Devrel Eng）: 热忱之心不可泯灭，纵使这份感情被背叛过千百次！
+
+不老师:我以后还能见到你吗？
+logan（Aptos Labs Devrel Eng）: 后会有期吧......
+logan（Aptos Labs Devrel Eng）: 你吃饭了吗？要不最后一起聚餐一下。
+不老师:好，我把其他同学也叫来，给老师送别。
+changeFigure:-left -id=2 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+changeFigure:-right -id=1 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+changeBg:111.png;
+:就这样，logan老师走了。
+:可logan老师的形象和不屈不挠的精神，像太阳一样，在这些少男少女的心中强烈的燃烧着。
+:再见了，logan老师๐·°(৹˃ᗝ˂৹)°·๐
+changeBg:School gate.png -next;
+changeFigure:joker.png -right -id=5 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+不老实舍友:“老不”想好毕业以后去哪了吗？;
+不老实舍友:打了四年的O神实在是找不到工作啊！！！;
+changeFigure:不老实.png -left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+不老实:和我一起去aptos labs应聘吧，去找logan老师......;
+end;

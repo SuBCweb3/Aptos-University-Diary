@@ -1,0 +1,111 @@
+bgm:6666.MP3;
+changeBg:night.png;
+:不老实就这样被KOL学长骗去大学三年的生活费、学费及其它费用，他不敢告诉父母。
+:不爸不妈经济条件不好，每当不老实向他们抱怨时（例如：没钱就不要生），他们总是哑口无言，只是一味加班。
+:每当不老实在学校时，他们总是顿顿白菜萝卜，一点腥都不沾。
+:他们给不老实的房间安上空调，留给自己一台老式风扇，以能省就省的态度给不老实一个比他们美好的未来。
+:当不老实的爷爷奶奶向不老实诉说他爸妈的努力时，不老实怎么能不理解他爸妈的心情，他是真的感受到了爸妈的心境。
+:就这样，不老实在宿舍像个无助的孩子埋头痛哭三天三夜。
+changeBg:sky.png
+:第四天，logan老师上课时注意到不老实没有来课堂，听到不老实舍友说明的一些情况后，当天下课后来到不老实宿舍。
+changeBg:dormitory.png
+changeFigure:logan.png -right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+logan: 请问何虹同学在吗？;
+:不老实急忙把眼角的泪水擦干后见logan老师
+changeFigure:不老实.png -left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+不老实:logan老师好，很抱歉今天没去上课。
+logan: 你的情况我大致听说了一些，这里人多，可以换个地方说话吗？;
+changeBg:association.png
+changeFigure:-left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255};
+changeFigure:-right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+:logan老师和不老实交谈了一段时间......
+changeFigure:logan.png -right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+logan: 你说的这个KOL同学，我后面会和学校和公安方面联系，争取采用一些手段给你挽回一些损失。;
+logan: 虚拟货币交易的法律现在不健全，你的资金大概率回不来了。
+logan: 说了这么久你还没吃饭吧，一起去吃个饭呗。
+changeFigure:不老实.png -left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+不老实:老师其实我已经没有钱吃饭了......
+logan: 用我的钱吧，以后你在学校的开销我来出。
+不老实:老师，这不好吧。
+logan: 这比钱不是白白送你的，最近我不是申请Apt链协嘛，计划让你管理Apt链协，这比钱就是你在链协的激励金！
+logan: 你可以先从最近的Aptos黑客松开始，后面上课时会和同学说明。
+logan: 你如果有不理解的地方，随时找我，我后面经常在这边活动室。
+不老实:谢谢老师，我一定不辜负你的信任。
+bgm:77777.MP3;
+changeFigure:-left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255};
+changeFigure:-right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+changeBg:canteen.png
+:后面不老实发誓一定要在接下来的Aptos黑客松拿下第一！！！
+changeBg:sky.png -next;
+
+:时间又又又过去了几天......
+changeBg:classroom.png -next;
+changeFigure:logan.png -right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+logan: 从 Builder 到 Pro：黑客松怎么打？;
+logan: 在黑客松中讲出一个好的叙事非常重要，一个好的叙事可以让项目更具吸引力，也可以更打动具有行业视野的评委。;
+logan: 作为产品经理或者产品经历的伙伴当然知道产品有多重要，但是我们最后会发现许多开发者，他们可能并不具备一个构建完美叙事的能力，也很难去呈现出不错的节目效果。;
+logan: 如果产品如果具备一个的宏大叙事，或者说具有一定的人文关怀，或者说单纯就是在情感表现方面能够引起在座评委和开发者的情感共鸣，那么项目本身就会得到极大的加分。;
+logan: 在产品设计方面也可以根据叙事选题，发现评委容易关注的点也很重要。;
+logan: 如果目的是为了拿奖，需要了解评委背景和口味，对症下药，但这种制度也存在弊端，允许小镇同学家思维的存在。;
+不老实:【logan老师声音有点好听ʚ❤ɞ】
+logan: 如果目的不是为了拿奖，而是为了推动长期项目或彰显个人风格，可以遵循个人风格。;
+logan: 可以研究现有成功项目的故事风格，当然，了解行业需求，真诚地面对行业，也能更好地彰显产品核心价值。
+changeBg:association.png -next;
+changeFigure:不老实.png -left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+不老实:Aptos 生态目前有哪些开发者工具链？
+logan: 比如用于快速创建项目模板的 create-aptos-dapp，这是一个 NPM 包形式的 CLI 工具，内置多种模板，可以方便地创建一个包含前端、后端甚至索引器的一体化应用模板。;
+logan:还有用于 E2E 测试的工具包 aptos-workspace，它通过 Docker 启动一个本地 Aptos 节点来进行测试。
+logan:当然，CLI 工具本身也提供了很多功能，比如模拟交易、查看 Gas 消耗、火焰图等。
+changeFigure:-left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255};
+changeFigure:-right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+
+changeBg:sky.png -next;
+:不老实就这样平时认真上logna的课程，课余时间和logan老师交流技术♡ 
+changeBg:classroom.png -next;
+changeFigure:logan.png -right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+logan: 在寻找队友方面，有两个方面的建议。;
+不老实:【logan老师好帅ʚ❤ɞ】
+logan: 一是通过之前的人脉积累，了解各个伙伴的擅长点和技能进行赛前组队。;
+logan: 二是明确队友的需求，确认需要找的后端还是合约等，提供相关经验和指导。;
+logan: 最后，在项目协作方面，明确产品思路和需求管理，对齐队友间配合的标准工作流程非常重要。;
+logan: 在分工方面，一个小的团队一般就是开发加产品，然后当有了一个比较好的产品思路之后，产品就是灵魂，并且在开发的第一天就已经全部确定好了每一个人的分工。;
+logan: 根据目标客户群体的需求来打造产品故事，要让产品符合行业的主流价值观如去中心化、隐私保护和自由无许可等。;
+
+logan: 并且也要了解交易者和开发者的痛点，需要多尝试、多历练，体验不同的 Web3 生活和工作角色。;
+logan: 也可以从自己的需求上出发，比如从身边同学的一个反馈角度出发，比如有不少开发者伙伴可能都是风险厌恶者，那么就会很自然会有稳定币收益的需求和产品想法。
+logan: 但是很多学生开发者会有一些局限性，对市场调研不足，也是需要大家去好好做。
+logan: 所以如果说想要打磨一个好的产品，首先第一点是要更好的去洞悉需求，然后第二个就是如何把这个需求和这个产品本身更好的结合起来。
+changeFigure:-right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+
+changeBg:sky.png -next;
+:时间又又又又过去了几天......
+
+changeBg:classroom.png -next;
+changeFigure:logan.png -right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+logan: 多参加黑客松有利于就业和个人发展。因为参加黑客松比赛可以带来技术上的跃升、实战经验的积累以及产品经理角度的转变。;
+logan: 此外，黑客松还可以帮助建立更好的人脉，通过作品与他人建立连接。;
+logan: 最后，参加黑客松比赛有助于提升个人品牌，获取 Web3 企业入场券，以及更便捷地进入 Web3 行业。
+logan: 除此之外，参加黑客松对开发者自己做的项目有加速的好处，也能帮助开发者与其他优秀开发者、VC、和孵化器建立联系。;
+logan: 参加黑客松之后很大的一个收获就是可以在很短的时间内发现自己快速启动一个项目的可能性。;
+changeFigure:-right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+changeBg:sky.png -next;
+:时间又又又又过去了几天......
+:很快就来到了黑客松的Demo Day，各选手都准备就绪！！！
+:不老实用尽自己最大的努力参加比赛为得就是这一时刻！！！
+:背负logan老师之名，我不能输！！！！！！
+playVideo:7æ29æ¥ (1).mp4 -skipOff=true;
+changeBg:night.png -next;
+:不老实如愿以偿得拿得了第一......
+SuBC:不要问什么没有剧情了，如果想体验不老实比赛情节的话✧*｡ (ˊᗜˋ*) ✧*
+changeBg:race.png -next;
+SuBC:欢迎报名接下来的Aptos黑客松✧⁺⸜(๑˙▾˙๑)⸝⁺✧
+SuBC:报名链接：https://aptosfoundation.org/events/ctrl-move
+changeBg:hackerthon.png -next;
+SuBC:同时也可以加入alcove社区，了解最新黑客松情报✧⁺⸜(●˙▾˙●)⸝⁺✧
+SuBC:我们的游戏角色“不老实”、“cikey”和“logan”也会出现在alcove社区哦o(*≧▽≦)ツ┏━┓
+SuBC:在此祝大家Ctrl+Move黑客松顺利(｡•̀ᴗ-)✧
+changeBg:night.png -next;
+:接下来是不老实的颁奖仪式 -notend;
+playVideo:dream.mp4 -skipOff=true;
+:不老实获奖后...... -notend;
+changeScene:4.txt

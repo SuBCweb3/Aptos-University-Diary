@@ -1,0 +1,7 @@
+Game_name:Aptos-University-Diary;
+Game_key:87c8de9eca891c;
+Title_img:Main interface.png;
+Title_bgm:theme music.MP3;
+Textbox_theme:imss;
+Default_Language:zh_CN;
+Game_Logo:;

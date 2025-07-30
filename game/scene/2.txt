@@ -1,0 +1,118 @@
+bgm:44444.MP3;
+changeBg:classroom.png -next;
+changeFigure:logan.png -right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+logan: 我们现在讲解Aptos Move 与 Solidity 的特性对比චᆽච;
+logan: 与 Solidity 对比，Aptos Move 在多个方面展现出其独特性。;
+logan: 资源管理方面，Move 中的资源默认不可随意丢弃，且所有权直接归属于账户；而 Solidity 中，资产逻辑通常由合约管理，资产存储在合约的映射表中。;
+logan: 这导致了数据存储所有权的不同：Move 中用户是其资源的所有者，Solidity 中合约是数据的所有者。;
+logan: 在安全性方面，Move 通过其设计避免了类似 Solidity 中常见的重入攻击等问题。;
+logan: 至少在目前主网版本中尚未出现此类安全事件，部分原因在于其早期版本未引入复杂的动态调用功能。;
+
+logan: 类型系统方面，Move 是强静态类型语言，在编译时进行严格的类型检查。;
+logan: 而 Solidity 虽然也支持静态类型，但在函数调用和参数传递时更偏向序列化方式，静态类型限制相对较少。;
+logan: 整数溢出问题在 Move 中会直接导致合约中止，而 Solidity 后续版本也对此进行了改进。;
+logan: 此外，Move 语言内置了对形式化验证的支持，提供了一套规范来通过数学方式验证合约的正确性，这有助于在审计过程中发现潜在的逻辑漏洞。;
+logan: 并行处理方面，由于 Aptos Move 的资源分布在各个账户下，天然有利于并行化处理交易，而 Solidity 由于数据集中存储在合约中，实现并行化则更为复杂。;
+changeFigure:-right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+
+changeBg:sky.png -next;
+:时间又过去了几天......
+changeBg:classroom.png -next;
+changeFigure:cikey2.png -left -id=3 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+changeFigure:logan.png -right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+logan: 今天cikey老师要来分享alcove社区的招聘，让我们热烈欢迎！！！;
+cikey（alcove社区主理）: 在 alcove，我们相信，真正能改变世界的，不只是开发者，而是每一个敢想、敢做、敢闯的“你”。;
+cikey（alcove社区主理）: 无论你是开发者、BD、项目 PM、运营、内容创作者、研究员、设计师......;
+cikey（alcove社区主理）: 只要你想在 Web3 长期深耕，想真正做点有价值的事，这里，都有你的一席之地。;
+changeBg:qq1.png -next;
+changeFigure:-left -id=3 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+changeFigure:-right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+cikey（alcove社区主理）: 这是设计师的要求......;
+changeBg:qq2.png -next;
+cikey（alcove社区主理）: 这是社区运营的要求......;
+changeBg:qq3.png -next;
+cikey（alcove社区主理）: 这是内容创作者/研究员的要求......;
+changeBg:qq4.png -next;
+cikey（alcove社区主理）: 这是项目PM的要求......;
+changeFigure:-right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+changeBg:classroom.png -next;
+changeFigure:cikey2.png -left -id=3 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+changeFigure:logan.png -right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+cikey（alcove社区主理）: 当然除了以上还有其他，我们接下来还有一系列的活动将要在亚太地区举办，如果你或你们有其他的 idea 也欢迎与我们联系。;
+cikey（alcove社区主理）: 联合举办线上 / 线下活动（分享、黑客松、Workshop 等），提供空间、资源支持，落地本地分享会或 Meetup，分享资源、案例和经验，形成可复制的合作范式。;
+cikey（alcove社区主理）: 无论你是个人还是组织，只要你真心想在 Web3 做出点东西，alcove 都期待你加入。;
+cikey（alcove社区主理）:在 alcove，你将从 0 到 1 搭建一个属于 Builders 空间，并留下属于你的印记。
+cikey（alcove社区主理）:一个真实而有温度的社区和一群真正在做事的人。
+cikey（alcove社区主理）:结识志同道合的朋友，一起搞事、一起成长，还有合理的兼职或合作激励（靠谱、及时），最后我们还希望你有一颗想改变点什么的心，积极主动且带脑子的态度。
+cikey（alcove社区主理）:有一项可以拿得出手的技能（或正在打磨的路上），真诚、靠谱，能一起扛事、做事、成事，勇敢且主动性强，也可以自己来能提出计划和需求。
+changeFigure:-left -id=3 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+changeFigure:-right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+changeBg:sky.png -next;
+:时间又又过去了几天......
+changeBg:classroom.png -next;
+changeFigure:logan.png -right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+logan: 什么是 Move 语言和 MoveVM？Aptos 团队当初为什么不沿用 EVM 或 SVM 等成熟方案？;
+logan: Move 语言和 MoveVM 大概是在2018-2019年期间，在Meta（当时叫Facebook）内部为Diem（原Libra）项目而产生的。;
+logan: Facebook 当时想做一条全球通用的稳定币公链，因此决定自己设计一套新的语言和虚拟机。;
+logan: Move 语言借鉴了 Rust 的所有权特性，并结合了资产转移等概念。;
+logan: Meta 历来有自己创造新东西的习惯，比如之前的 React 等，所以他们选择从头构建 Move。;
+logan: 之所以要做一套新的VM，是因为语言层面引入了所有权机制后，需要在VM层面进行验证，确保合约中定义的资产（例如“这个东西只属于我，不能被复制”）在实际执行过程中得到保障。;
+
+logan: 这是一个双向的保证：语言层面有此设计，VM层面则负责执行和验证。;
+logan: 后来 Meta 的 Diem 项目被叫停，其技术遗产就流传下来，演变成了现在 Aptos Move 和 Sui Move 等几大分支。;
+logan: 但它们的核心根源都遵循所有权机制，并在VM层面保障这一机制。;
+logan: 智能合约最主要的应用之一是金融系统（DeFi），其核心目标是确保用户资金安全。;
+logan: 早期的智能合约在这方面存在很多缺失。;
+logan: Move 语言的设计初衷就是为了防止诸如重入攻击、双重支付等常见的安全漏洞。;
+logan: Move 不仅在编译时进行验证，在链上运行时也会对字节码进行验证。;
+logan: 此外，Move 还提供了一个形式化验证语言 Move Prover（尽管目前可能用得不那么广泛），这也是当时设计时就附带的工具，便于对智能合约进行审计和形式化验证。;
+changeFigure:-right -id=2 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+bgm:After class.MP3;
+:下课时间到了
+changeBg:street.png -next;
+changeFigure:不老实.png -left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255};
+bgm:5555.MP3 -volume=100;
+不老实:好烦恼啊，每天学这些无聊的知识，能不能直接教我赚米啊₍₍ (̨̡ ‾᷄ᗣ‾᷅ )̧̢ ₎₎;
+changeFigure:pirate.png -right -id=5 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+KOL学长:同学这么想赚钱啊，我可以教你几招。;
+KOL学长:现在大学毕业生这么多，考公考编考研难度这么大，而且人工智能现在发展迅猛。
+KOL学长:现在就算找到工作也保不齐被裁，不如和我学些歪门邪道。;
+
+不老实:等一下，你是谁啊？
+不老实:我是不是在哪见到过你？;
+KOL学长:我不太记得我们有没有见过面，可能以前见到过吧。哈哈哈哈哈;
+KOL学长:我的名字是KOL，新闻学专业大四学生。
+KOL学长:我大三的时候已经A10086了，现在到处玩。;
+不老实:牛逼啊学长！;
+不老实:我是区块链专业大二在读学生;
+KOL学长:我知道不少加密货币，要我说你这个专业听着就不正经，指不定你专业老师偷偷在海外发币。;
+不老实:应该不会吧，我还是相信学校老师能履行高等学校教师职业道德规范的。;
+KOL学长:现在经济下行这么严重，以前经济高速发展的时候贪污腐败都屡禁不止。;
+KOL学长:你忘记以前的刘青s张子s了吗？;
+KOL学长:资本家害怕没有利润和利润太少，就像自然界害怕真空一样。;
+KOL学长:一旦有适当的利润，资本家就胆大起来。
+KOL学长:如果有10%的利润，他就保证到处被使用；有20%的利润，他就活跃起来；有50%利润，他就铤而走险；为了100%的利润，他就敢践踏一切人间法律；;
+KOL学长:有了300%的利润，他就敢犯任何罪行，甚至冒绞首的危险。
+KOL学长:如果动乱和纷争能带来利润，它就会鼓励动乱和纷争，走私和贩卖奴隶就是明证。
+KOL学长:资本来到世间，从头到脚，都流着血和肮脏的东西。
+KOL学长:手里一定要有足够的资本，才能得到你想要的，你才不会被权贵欺负。;
+KOL学长:学弟，你也不想你的家人在外面被人欺负吧！
+KOL学长:学弟，你也不想你以后当一个无能的丈夫吧!
+KOL学长:学弟，你也不想让你心爱的女孩为了你......
+
+:不老实突然鼻头一酸，想起了炎炎夏日父母在没有空调风扇的流水线工厂上班的情景。
+:不老实的眼中突然闪出微微泪光，想到了他大一喜欢的女生嫌弃他的农民工家庭。
+:他的心中燃起层层烈火，仿佛下定了某种决心。
+:不老实冷笑了下~;
+不老实:仰天大笑出门去，我辈岂是蓬蒿人。;
+不老实:学长你不要说了，教我秘诀吧。;
+KOL学长:这就对了嘛，一步实际行动，比一打纲领更重要。
+KOL学长:你要保持行动的决心，我们这些无权无势无钱的人就应该团结点，经济基础决定上层建筑。
+changeFigure: -left -id=1 -transform={"scale":{"x":0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255};
+changeFigure: -right -id=5 -transform={"scale":{"x":-0.7,"y":0.7},"colorRed":255,"colorGreen":255,"colorBlue":255} -next;
+:不老实后面被KOL学长cx成功。
+
+
+playVideo:kol (3).mp4 -skipOff=true;
+
+changeScene:3.txt
